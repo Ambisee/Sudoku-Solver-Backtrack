@@ -14,5 +14,7 @@ your particular arrangement of sudoku. With the help of the {tkinter.filedialog}
 input to generate a solution.
 
 P.S. The text file you browsed must be in the same format shown in the "Board.txt" file :
-     - Create 9 rows of list with 8 commas for each list in the text file
-     - Fill in a number in between those commas (0 for empty, each list must have a total of 9 numbers)
+<ul>
+     <li>Create 9 rows of list with 8 commas for each list in the text file</li>
+     <li>Fill in a number in between those commas (0 for empty, 9 numbers for each list)</li>
+</ul>
