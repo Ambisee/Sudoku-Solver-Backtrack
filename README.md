@@ -1,4 +1,4 @@
-# Sudoku-Solver-Backtrack
+# Sudoku Solver (Backtrack Algorithm)
 
 <b>Language : Python 3.8</b>           
 
