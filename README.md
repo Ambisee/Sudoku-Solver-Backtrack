@@ -4,7 +4,6 @@
 
 # Package Used
 - tkinter.filedialog
-- os
 
 # Description
 
